@@ -3,7 +3,7 @@
 
 # Sentiment_analysis_nltk
  
- 
+Sentiment analysis on the NLTK movie_reviews dataset using custom-built word vectors and various classifier input strategies. This project explores multiple vectorization approaches (average, max pooling, and fixed-length sequences) to classify movie reviews as positive or negative. Built using Python and the NLTK library. 
  
  
 
