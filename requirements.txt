@@ -1,1 +1,9 @@
-pytest
+gensim
+nltk
+scikit_learn
+scipy
+seaborn
+tensorflow
+tensorflow_gpu
+tensorflow_intel
+wordcloud
